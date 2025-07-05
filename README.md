@@ -3,7 +3,7 @@
 Một hệ thống **túi đồ (inventory)** đơn giản, nhẹ, tương thích với mobile, được viết bằng `PawnPlus`. Hỗ trợ các item như `pCash`, `pRadio`,... theo chuẩn gamemode **NGG**, dễ dàng mở rộng thêm vật phẩm mới.
 
 ✍️ Tác giả gốc: [Đinh Minh Khôi](https://github.com/dinhkhoi2298)
-
+---
 📱 Chuyển thể mobile: [Thuận](https://github.com/quocthuan1007)
 ---
 

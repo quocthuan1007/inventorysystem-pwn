@@ -48,8 +48,10 @@ các thông số phía sau có thể giữ nguyên nếu không dùng nâng cao.
 ➕ Khi thêm item vào túi đồ
 
 ![Khi nhấn nút thông tin](images/h2.png)
+
 ℹ️ Khi nhấn nút "Thông tin"
 
 ![Khi nhấn nút sử dụng](images/h3.png)
+
 🧪 Khi nhấn nút "Sử dụng"
 

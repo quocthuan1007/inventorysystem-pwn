@@ -4,7 +4,7 @@ Một hệ thống **túi đồ (inventory)** đơn giản, nhẹ, tương thíc
 
 ✍️ Tác giả gốc: [Đinh Minh Khôi](https://github.com/dinhkhoi2298)
 
-📱 Chuyển thể mobile: Thuận
+📱 Chuyển thể mobile: [Thuận](https://github.com/quocthuan1007)
 ---
 
 ## 🛠️ Cài đặt
@@ -20,6 +20,7 @@ Một hệ thống **túi đồ (inventory)** đơn giản, nhẹ, tương thíc
    #include "./includes/system/inventory/inv.pwn"
 
 3. **Gọi hàm xử lý textdraw:**
+
 // Trong OnPlayerClickTextDraw:
 Inv_OnResponse(playerid, clickedid);
 
@@ -27,7 +28,9 @@ Inv_OnResponse(playerid, clickedid);
 Inv_OnClick(playerid, playertext);
 
 ## 🧾 Cách sử dụng
+
 ![Thêm vào túi đồ](images/h1.png)
+
 Hệ thống tương thích với các item có sẵn trong NGG như: pCash, pRadio, pPot,...
 
 Để thêm một vật phẩm mới vào túi đồ, bạn cần thêm vào mảng như sau:

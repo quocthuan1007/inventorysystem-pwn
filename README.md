@@ -34,7 +34,9 @@ Inv_OnClick(playerid, playertext);
 Hệ thống tương thích với các item có sẵn trong NGG như: pCash, pRadio, pPot,...
 
 Để thêm một vật phẩm mới vào túi đồ, bạn cần thêm vào mảng như sau:
+
 {pCash, 1, "Tien mat", 19313, 0.0, 0.0, 0.0, 0.0},
+
 📌 Giải thích:
 pCash là tên thẻ,
 1 là có nút sử dụng (0 nếu không cần),
